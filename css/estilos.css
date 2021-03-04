@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.contenedor{
+  width: 100%;
+  max-width: 1170px;
+  margin: auto;
+  background-color: #dddddd;
+}
